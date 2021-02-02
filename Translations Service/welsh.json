@@ -1,0 +1,18 @@
+{
+  "GAME": "Gêm",
+  "SUPERMARKET": "Dash Archfarchnad",
+  "DISASTERS": "Trychinebau",
+  "REQUEST_SENT": "Cais wedi'i anfon.",
+  "FRIEND_ACCEPT": "Rydych chi'n ffrindiau nawr.",
+  "REQUEST_CANCEL": "Cais wedi'i ganslo.",
+  "FRIEND_END": "Rydych chi'n ffrindiau mwyach.",
+  "MESSAGE_RECEIVED": "§e%s §7i chi: §f%s",
+  "MESSAGE_SENT": "§7ti'n dweud wrth §e%s§7: §f%s",
+  "MESSAGE_FAILED": "Neges wedi methu anfon.",
+  "MESSAGE_FAILED_OFFLINE": "Neges wedi methu anfon. Ni ellir ddod o hyd i'r chwaraewr.",
+  "MESSAGE_USAGE": "Defnydd: /message (chwaraewr) (neges)",
+  "FRIEND": "Ffrind",
+  "COMMAND_NOT_FOUND": "Does dim gorchymyn",
+  "PERMISSION": "Nid oes gennych caniatâd.",
+  "BUG_WARNING": "Gall yr amgylchedd presennol gynnwys gwallau neu bygiau!"
+}

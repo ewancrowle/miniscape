@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Connector Service/Connector Service.iml" filepath="$PROJECT_DIR$/Connector Service/Connector Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Core.iml" filepath="$PROJECT_DIR$/Core/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hub/Hub.iml" filepath="$PROJECT_DIR$/Hub/Hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Island Escape/Island Escape.iml" filepath="$PROJECT_DIR$/Island Escape/Island Escape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minigame/Minigame.iml" filepath="$PROJECT_DIR$/Minigame/Minigame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Miniscape.iml" filepath="$PROJECT_DIR$/.idea/Miniscape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Network Coordinator Service/Network Coordinator Service.iml" filepath="$PROJECT_DIR$/Network Coordinator Service/Network Coordinator Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scaling Service/Scaling Service.iml" filepath="$PROJECT_DIR$/Scaling Service/Scaling Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Translations Service/Translations Service.iml" filepath="$PROJECT_DIR$/Translations Service/Translations Service.iml" />
+    </modules>
+  </component>
+</project>

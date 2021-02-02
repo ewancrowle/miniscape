@@ -1,0 +1,18 @@
+{
+  "GAME": "Spiel",
+  "SUPERMARKET": "Schnelle Supermarkt",
+  "DISASTERS": "Katastrophen",
+  "REQUEST_SENT": "Anfrage wurde gesendet.",
+  "FRIEND_ACCEPT": "Sie sind jetzt Freunde.",
+  "REQUEST_CANCEL": "Anfrage wurde storniert.",
+  "FRIEND_END": "Du bist keine Freunde mehr.",
+  "MESSAGE_RECEIVED": "",
+  "MESSAGE_SENT": "",
+  "MESSAGE_FAILED": "",
+  "MESSAGE_FAILED_OFFLINE": "",
+  "MESSAGE_USAGE": "",
+  "FRIEND": "Freund",
+  "COMMAND_NOT_FOUND": "",
+  "PERMISSION": "",
+  "BUG_WARNING": ""
+}

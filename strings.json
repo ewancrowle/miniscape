@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "strings": {
+    "GAME": {
+      "ENGLISH": "Game",
+      "FRENCH": "Jeux",
+      "GERMAN": "Spiel"
+    },
+    "SUPERMARKET": {
+      "ENGLISH": "Supermarket Dash",
+      "FRENCH": "Supermarché Rapide",
+      "GERMAN": "Schnelle Supermarkt"
+    },
+    "DISASTERS": {
+      "ENGLISH": "Disasters",
+      "FRENCH": "Catastrophes",
+      "GERMAN": "Katastrophen"
+    },
+    "REQUEST_SENT": {
+      "ENGLISH": "Request sent.",
+      "FRENCH": "Demande a été envoyée.",
+      "GERMAN": "Anfrage wurde gesendet"
+    },
+    "FRIEND_ACCEPT": {
+      "ENGLISH": "You are now friends.",
+      "FRENCH": "Vous êtes maintenant amis.",
+      "GERMAN": "Sie sind jetzt Freunde."
+    },
+    "REQUEST_CANCEL": {
+      "ENGLISH": "Request cancelled.",
+      "FRENCH": "Demande a été désapprouvée",
+      "GERMAN": "Anfrage wurde storniert."
+    },
+    "FRIEND_END": {
+      "ENGLISH": "You are no longer friends.",
+      "FRENCH": "Vous n'êtes plus amis.",
+      "GERMAN": "Du bist keine Freunde mehr."
+    },
+    "MESSAGE_RECEIVED": {
+      "ENGLISH": "§e%s §7tells you: §f%s"
+    },
+    "MESSAGE_SENT": {
+      "ENGLISH": "§7you tell §e%s§7: §f%s"
+    },
+    "MESSAGE_FAILED": {
+      "ENGLISH": "Message failed to send."
+    },
+    "MESSAGE_FAILED_OFFLINE": {
+      "ENGLISH": "Message failed to send. Player not found."
+    },
+    "MESSAGE_USAGE": {
+      "ENGLISH": "Usage: /message (player) (message)"
+    },
+    "FRIEND": {
+      "ENGLISH": "Friend",
+      "FRENCH": "Ami",
+      "GERMAN": "Freunde"
+    },
+    "COMMAND_NOT_FOUND": {
+      "ENGLISH": "Command not found."
+    },
+    "PERMISSION": {
+      "ENGLISH": "You don't have permission!"
+    },
+    "BUG_WARNING": {
+      "ENGLISH": "Current environment may contain errors or bugs!"
+    }
+  }
+}

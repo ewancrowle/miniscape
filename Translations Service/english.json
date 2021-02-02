@@ -1,0 +1,18 @@
+{
+  "GAME": "Game",
+  "SUPERMARKET": "Supermarket Dash",
+  "DISASTERS": "Disasters",
+  "REQUEST_SENT": "Request sent.",
+  "FRIEND_ACCEPT": "You are now friends.",
+  "REQUEST_CANCEL": "Request cancelled.",
+  "FRIEND_END": "You are no longer friends.",
+  "MESSAGE_RECEIVED": "§e%s §7tells you: §f%s",
+  "MESSAGE_SENT": "§7you tell §e%s§7: §f%s",
+  "MESSAGE_FAILED": "Message failed to send.",
+  "MESSAGE_FAILED_OFFLINE": "Message failed to send. Player not found.",
+  "MESSAGE_USAGE": "Usage: /message (player) (message)",
+  "FRIEND": "Friend",
+  "COMMAND_NOT_FOUND": "Command not found.",
+  "PERMISSION": "You don't have permission.",
+  "BUG_WARNING": "Current environment may contain errors or bugs!"
+}

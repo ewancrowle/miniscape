@@ -1,0 +1,18 @@
+{
+  "GAME": "Jeux",
+  "SUPERMARKET": "Supermarché Rapide",
+  "DISASTERS": "Catastrophes",
+  "REQUEST_SENT": "Demande a été envoyée.",
+  "FRIEND_ACCEPT": "Vous êtes maintenant amis.",
+  "REQUEST_CANCEL": "Demande a été désapprouvée.",
+  "FRIEND_END": "Vous n'êtes plus amis.",
+  "MESSAGE_RECEIVED": "§e%s §7à toi: §f%s",
+  "MESSAGE_SENT": "§7tu à §e%s§7: §f%s",
+  "MESSAGE_FAILED": "",
+  "MESSAGE_FAILED_OFFLINE": "",
+  "MESSAGE_USAGE": "",
+  "FRIEND": "Ami",
+  "COMMAND_NOT_FOUND": "",
+  "PERMISSION": "",
+  "BUG_WARNING": ""
+}
